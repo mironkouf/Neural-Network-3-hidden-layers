@@ -1,7 +1,7 @@
 # MLP #
 
 ## Data ##
-Created the data with python.
+Create the data using Python and split it into training set and test set.
 
 ## Tasks ##
 1) Create a neural network with 3 hidden layers for a classification problem
